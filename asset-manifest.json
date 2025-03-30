@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BartekDa/HubertPageShop/static/css/main.02992e03.css",
-    "main.js": "/BartekDa/HubertPageShop/static/js/main.28f5f5c3.js",
-    "static/js/453.fba823c2.chunk.js": "/BartekDa/HubertPageShop/static/js/453.fba823c2.chunk.js",
-    "index.html": "/BartekDa/HubertPageShop/index.html",
-    "main.02992e03.css.map": "/BartekDa/HubertPageShop/static/css/main.02992e03.css.map",
-    "main.28f5f5c3.js.map": "/BartekDa/HubertPageShop/static/js/main.28f5f5c3.js.map",
-    "453.fba823c2.chunk.js.map": "/BartekDa/HubertPageShop/static/js/453.fba823c2.chunk.js.map"
+    "main.css": "/HubertPageShop/static/css/main.02992e03.css",
+    "main.js": "/HubertPageShop/static/js/main.396c528a.js",
+    "static/js/453.fba823c2.chunk.js": "/HubertPageShop/static/js/453.fba823c2.chunk.js",
+    "index.html": "/HubertPageShop/index.html",
+    "main.02992e03.css.map": "/HubertPageShop/static/css/main.02992e03.css.map",
+    "main.396c528a.js.map": "/HubertPageShop/static/js/main.396c528a.js.map",
+    "453.fba823c2.chunk.js.map": "/HubertPageShop/static/js/453.fba823c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02992e03.css",
-    "static/js/main.28f5f5c3.js"
+    "static/js/main.396c528a.js"
   ]
 }
